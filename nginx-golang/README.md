@@ -70,7 +70,6 @@ $ curl localhost:80
  \    \         __/
   \____\_______/
 
-	
 Hello from Docker!
 ```
 
